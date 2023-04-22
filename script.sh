@@ -1,0 +1,2 @@
+export GITHUB_USERNAME="TheMandalorian1"
+export GITHUB_REPOSITORY="se2001-21f1001069"
